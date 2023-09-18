@@ -1,7 +1,7 @@
 
 const nums = [12, 55, 7, 5, 4, 6, 66, 444, 1, 333];
 
-// sorts numbes as if they were strings
+// sorts numbers as if they were strings
 console.log(nums.sort());
 
 // sort in ascending order
